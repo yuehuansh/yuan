@@ -4,15 +4,6 @@
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
     "sites": [
-        {
-            "key": "Douban",
-            "name": "🌕️┆片单┆精选",
-            "type": 3,
-            "api": "csp_Douban",
-            "indexs": 1,
-            "searchable": 0,
-            "filterable": 1
-        },
         
         {
             "key": "FishConfig",
@@ -127,21 +118,6 @@
             "api": "csp_zhiqiu",
             "searchable": 1,
             "ext": "http://www.小不点.com/api//2026/zhiqiu.php"
-        },
-        
-        {
-            "key": "Kan360",
-            "name": "🫐┆三六┆影视",
-            "type": 3,
-            "api": "csp_Kan360",
-            "searchable": 1,
-            "filterable": 1,
-            "ext": {
-                "filter": "https://open.wya6.com/d/down/2026/json/360.json",
-                "fishjx": [
-                    "https://jx.xmflv.com/?url="
-                ]
-            }
         },
         {
             "key": "Rebo",
