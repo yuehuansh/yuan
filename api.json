@@ -5,13 +5,19 @@
     "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
     "sites": [
         {
-            "key": "Douban",
-            "name": "🌕️┆片单┆精选",
-            "type": 3,
-            "api": "csp_Douban",
-            "indexs": 1,
-            "searchable": 0,
-            "filterable": 1
+      "key": "Douban",
+      "name": "🌕️┆片单┆精选",
+      "type": 3,
+      "api": "csp_PianDan",
+      "indexs": 1,
+      "searchable": 0,
+      "filterable": 1,
+      "ext": {
+        "home": {
+          "douban": "./lib/douban.json",
+          "tmdb": "./lib/tmdb.json"
+                }
+            }
         },
         {
             "key": "FishConfig",
