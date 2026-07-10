@@ -1,10 +1,18 @@
 {
-    "spider": "./jars/spidermo.jar",
+    "spider": "./950626551_3_1783615503849.png",
     "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
     "sites": [
-        
+        {
+            "key": "Douban",
+            "name": "🌕️┆片单┆精选",
+            "type": 3,
+            "api": "csp_Douban",
+            "indexs": 1,
+            "searchable": 0,
+            "filterable": 1
+        },
         {
             "key": "FishConfig",
             "name": "🍼┆设置┆中心",
@@ -23,10 +31,9 @@
                 "type": "list"
             }
         },
-
         {
             "key": "YunDuo",
-            "name": "☁️┆云朵┆4K",
+            "name": "┆云朵┆4K",
             "type": 3,
             "api": "csp_YunDuo",
             "searchable": 1,
@@ -131,15 +138,7 @@
                 "url": "http://v.rbotv.cn"
             }
         },
-        {
-            "key": "三秋影视",
-            "name": "🍂┆三秋┆APP",
-            "api": "csp_App3Q",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+        
         {
             "key": "厌离",
             "name": "🧨┆厌离┆APP",
@@ -194,11 +193,14 @@
             "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
         },
         {
-            "key": "Guazi",
-            "name": "🍉┆瓜子┆影视",
+            "key": "csp_Gz360",
+            "name": "🍉瓜子┃1080P",
             "type": 3,
-            "api": "csp_Guazi",
-            "searchable": 1
+            "timeout": 12,
+            "searchable": 1,
+            "quickSearch": 0,
+            "api": "csp_Gz360", 
+            "jar": "./spiderxm.jar"
         },
         {
             "key": "TvDy",
@@ -207,14 +209,6 @@
             "api": "csp_TvDy",
             "searchable": 1,
             "filterable": 1
-        },
-        {
-            "key": "MqTv",
-            "name": "🐦┆麻雀┆影视",
-            "type": 3,
-            "api": "csp_MqTv",
-            "searchable": 1,
-            "ext": "https://www.mqtv.cc"
         },
         {
             "key": "SaoHuo",
@@ -236,24 +230,6 @@
             "changeable": 1
         },
         {
-            "key": "Ikanbot",
-            "name": "🥰┆爱看┆影视",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "filterable": 0,
-            "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
-        },
-        
-        {
-            "key": "Jianpian",
-            "name": "🧲┆荐片┆磁力",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "filterable": 1
-        },
-        {
             "key": "天天",
             "name": "🚀秒播┃1080P",
             "type": 3,
@@ -262,7 +238,7 @@
             "api": "csp_AppRJ",
             "timeout": 12,
             "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg=", 
-            "jar": "./jars/spiderxm.jar"
+            "jar": "./spiderxm.jar"
         },
         {
             "key": "csp_Wwys",
@@ -271,7 +247,7 @@
             "api": "csp_Wwys",
             "timeout": 12,
             "ext": "https://vip.wwgz.cn:5200",
-            "jar": "./jars/spiderxm.jar"
+            "jar": "./spiderxm.jar"
         },
         {
             "key": "葫芦",
@@ -279,7 +255,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0", 
-            "jar": "./jars/spiderxm.jar"
+            "jar": "./spiderxm.jar"
         },
         {
             "key": "新首发",
@@ -287,7 +263,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/601.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0", 
-            "jar": "./jars/spiderxm.jar"
+            "jar": "./spiderxm.jar"
         },
         {
             "key": "四叶草",
@@ -295,7 +271,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0", 
-            "jar": "./jars/spiderxm.jar"
+            "jar": "./spiderxm.jar"
         },
         {
             "key": "爱营",
@@ -305,7 +281,7 @@
             "changeable": 1,
             "api": "csp_AppGet",
             "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0", 
-            "jar": "./jars/spiderxm.jar"
+            "jar": "./spiderxm.jar"
         },
         {
             "key": "3QQQ",
@@ -314,7 +290,7 @@
             "timeout": 15,
             "api": "csp_App3Q",
             "ext": "https://asd123sx23xdacsx.top", 
-            "jar": "./jars/spiderxm.jar"
+            "jar": "./spiderxm.jar"
         },
         {
             "key": "山楂",
@@ -329,7 +305,7 @@
             "name": "🔥火火┃1080P",
             "type": 3,
             "api": "csp_SaoHuo", 
-            "jar": "./jars/spiderxm.jar"
+            "jar": "./spiderxm.jar"
         },
         {
             "key": "麦田",
@@ -337,7 +313,23 @@
             "type": 3,
             "api": "csp_AppV6",
             "ext": "http://172.247.227.203:25321/mtys.php", 
-            "jar": "./jars/spiderxm.jar"
+            "jar": "./spiderxm.jar"
+        },
+        {
+            "key": "荐片",
+            "name": "🧲荐片┃1080P",
+            "quickSearch": 0,
+            "changeable": "0",
+            "searchable": 1,
+            "timeout": 15,
+            "type": 3,
+            "api": "csp_Jianpian",
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            },
+            "ext": "https://api.ztcgi.com", 
+            "jar": "./spiderxm.jar"
         },
         {
             "key": "ChuXin",
@@ -399,23 +391,6 @@
             "style": {
                 "type": "list"
             }
-        },
-        
-        
-        
-        {
-            "key": "Wallpaper",
-            "name": "🖼️┆摸鱼┆壁纸库",
-            "type": 3,
-            "api": "csp_Wallpaper",
-            "searchable": 0,
-            "indexs": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 0.56
-            }
         }
     ],
     "lives": [
@@ -425,7 +400,18 @@
             "url": "./lives/superiptv.txt"
         }
     ],
-    "parses": [],
+    "parses": [
+        {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    }
+    ],
     "flags": [],
     "ijk": [
         {
