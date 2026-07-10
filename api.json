@@ -206,7 +206,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "api": "csp_Gz360", 
-            "jar": "./spiderxm.jar"
+            "jar": "./jars/spiderxm.jar"
         },
         {
             "key": "TvDy",
