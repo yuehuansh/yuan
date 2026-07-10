@@ -1,5 +1,5 @@
 {
-    "spider": "./950626551_3_1783615503849.png",
+    "spider": "./jars/950626551_3_1783615503849.png",
     "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
@@ -247,7 +247,7 @@
             "api": "csp_Wwys",
             "timeout": 12,
             "ext": "https://vip.wwgz.cn:5200",
-            "jar": "./spiderxm.jar"
+            "jar": "./jars/spiderxm.jar"
         },
         {
             "key": "葫芦",
@@ -255,7 +255,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0", 
-            "jar": "./spiderxm.jar"
+            "jar": "./jars/spiderxm.jar"
         },
         {
             "key": "新首发",
@@ -263,7 +263,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/601.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0", 
-            "jar": "./spiderxm.jar"
+            "jar": "./jars/spiderxm.jar"
         },
         {
             "key": "四叶草",
@@ -271,7 +271,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0", 
-            "jar": "./spiderxm.jar"
+            "jar": "./jars/spiderxm.jar"
         },
         {
             "key": "爱营",
@@ -281,7 +281,7 @@
             "changeable": 1,
             "api": "csp_AppGet",
             "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0", 
-            "jar": "./spiderxm.jar"
+            "jar": "./jars/spiderxm.jar"
         },
         {
             "key": "3QQQ",
@@ -290,7 +290,7 @@
             "timeout": 15,
             "api": "csp_App3Q",
             "ext": "https://asd123sx23xdacsx.top", 
-            "jar": "./spiderxm.jar"
+            "jar": "./jars/spiderxm.jar"
         },
         {
             "key": "山楂",
@@ -305,7 +305,7 @@
             "name": "🔥火火┃1080P",
             "type": 3,
             "api": "csp_SaoHuo", 
-            "jar": "./spiderxm.jar"
+            "jar": "./jars/spiderxm.jar"
         },
         {
             "key": "麦田",
@@ -313,7 +313,7 @@
             "type": 3,
             "api": "csp_AppV6",
             "ext": "http://172.247.227.203:25321/mtys.php", 
-            "jar": "./spiderxm.jar"
+            "jar": "./jars/spiderxm.jar"
         },
         {
             "key": "荐片",
@@ -329,7 +329,7 @@
                 "ratio": 1.333
             },
             "ext": "https://api.ztcgi.com", 
-            "jar": "./spiderxm.jar"
+            "jar": "./jars/spiderxm.jar"
         },
         {
             "key": "ChuXin",
