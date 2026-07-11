@@ -38,6 +38,24 @@
             }
         },
         {
+            "key": "电影天堂",
+            "name": "电影天堂┃[采集]",
+            "type": 1,
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "playUrl": "",
+            "categories": [
+                "短剧",
+                "国产剧",
+                "香港剧",
+                "台湾剧",
+                "大陆综艺"
+            ]
+        },
+        {
             "key": "YunDuo",
             "name": "┆云朵┆4K",
             "type": 3,
