@@ -56,6 +56,21 @@
             ]
         },
         {
+            "key": "1080高清资源",
+            "name": "1080高清资源┃[采集]",
+            "type": 1,
+            "api": "https://api.yyzy-tv.vip/inc/apijson.php?ac=list ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "playUrl": "",
+            "categories": [
+                
+                "国产剧"
+            ]
+        },
+        {
             "key": "YunDuo",
             "name": "┆云朵┆4K",
             "type": 3,
@@ -322,6 +337,14 @@
             "type": 3,
             "timeout": 15,
             "api": "./api/shanzha.py",
+            "ext": ""
+        },
+        {
+            "key": "枫叶vip",
+            "name": "枫叶vip_红果_PY",
+            "type": 3,
+            "timeout": 15,
+            "api": "./api/枫叶vip.py",
             "ext": ""
         },
         {
