@@ -471,6 +471,22 @@
       "api": "./api/shanzha.py",
       "ext": ""
     },
+    {
+      "key": "瓜子",
+      "name": "瓜子py",
+      "type": 3,
+      "timeout": 15,
+      "api": "./api/瓜子影视.py",
+      "ext": ""
+    },
+    {
+      "key": "威视TV",
+      "name": "威视TVpy",
+      "type": 3,
+      "timeout": 15,
+      "api": "./api/威视TV.py",
+      "ext": ""
+    },
 
     {
       "key": "麦田",
