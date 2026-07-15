@@ -335,12 +335,6 @@
       "ext": "https://www.xlysw.ggff.net"
     },
     {
-      "key": "瓜子影视",
-      "name": "瓜子 • 影视",
-      "type": 3,
-      "api": "csp_Gz360"
-    },
-    {
       "key": "骚火影视",
       "name": "骚火 • 影视",
       "type": 3,
