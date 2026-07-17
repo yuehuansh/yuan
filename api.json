@@ -516,7 +516,7 @@
       "key": "华数TV",
       "name": "🦚华数TV｜py",
       "type": 3,
-      "api": "./api/万彩坊影视.py",
+      "api": "./api/华数TV.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
