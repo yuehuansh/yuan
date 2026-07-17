@@ -33,7 +33,7 @@
       "key": "裤佬-EmbyJS",
       "name": "EMBY❤免扫4K",
       "type": 3,
-      "api": "./lib/40d30fe3d9671e0d700f1c272bb20aaa.js",
+      "api": "./js/40d30fe3d9671e0d700f1c272bb20aaa.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
