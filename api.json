@@ -30,6 +30,15 @@
       "api": "csp_LocalFile"
     },
     {
+      "key": "裤佬-EmbyJS",
+      "name": "EMBY❤免扫4K",
+      "type": 3,
+      "api": "./lib/40d30fe3d9671e0d700f1c272bb20aaa.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
             "key": "电影天堂",
             "name": "电影天堂┃[采集]",
             "type": 1,
@@ -492,7 +501,28 @@
       "api": "./api/威视TV.py",
       "ext": ""
     },
-
+    {
+      "key": "万彩坊影视",
+      "name": "🦚万彩坊｜影视py",
+      "type": 3,
+      "api": "./api/万彩坊影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "华数TV",
+      "name": "🦚华数TV｜py",
+      "type": 3,
+      "api": "./api/万彩坊影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
     {
       "key": "麦田",
       "name": "🌾麦田┃1080Pxm",
@@ -602,6 +632,17 @@
       "style": {
         "type": "list"
       }
+    },
+    {
+      "key": "酷我音乐",
+      "name": "🎶酷我｜音乐py",
+      "type": 3,
+      "api": "./api/酷我音乐.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "爱听音乐",
