@@ -523,6 +523,39 @@
       "filterable": 1,
       "playerType": 2
     },
+     {
+      "key": "可可影视",
+      "name": "可可影视py",
+      "type": 3,
+      "api": "./api/可可影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "神马影视",
+      "name": "神马影视py",
+      "type": 3,
+      "api": "./api/神马影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "悟空影视",
+      "name": "悟空影视py",
+      "type": 3,
+      "api": "./api/悟空影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
     {
       "key": "麦田",
       "name": "🌾麦田┃1080Pxm",
