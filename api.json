@@ -683,7 +683,25 @@
       "type": 3,
       "api": "./lib/XS20260715/爱听音乐.py"
     },
-    
+    {
+      "name": "🎸酷狗|音乐",
+      "key": "KuGou",
+      "type": 3,
+      "api": "csp_KuGouAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar":"./jars/awu.jar"
+    },
+    {
+      "key": "cat_音乐",
+      "name": "音乐欣赏",
+      "type": 3,
+      "api": "./js/音乐.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     
     {
       "key": "哔哩合集",
