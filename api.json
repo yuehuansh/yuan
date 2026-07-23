@@ -71,6 +71,20 @@
                 "国产剧"
             ]
         },
+      {
+            "key": "无水印网",
+            "name": "📱水源网ᶜʲ┃采集",
+            "type": 1,
+            "api": "https://api.wsyzy.net/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                
+                "国产剧"
+                
+            ]
+        },
     {
       "key": "热播影视",
       "name": "热播 • APP",
