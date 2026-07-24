@@ -1,0 +1,147 @@
+{
+	"sites": [
+				{
+            "key": "cat_骚火",
+            "name": "📱骚火网ᶜᵃᵗ｜APP",
+            "type": 3,
+            "api": "./js/cat_骚火.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+				},
+				{
+            "key": "cat_高工电影网",
+            "name": "📱电影网ᶜᵃᵗ｜APP",
+            "type": 3,
+            "api": "./js/cat_高工电影网.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+				},
+				{
+            "key": "cat_永乐网",
+            "name": "📱永乐网ᶜᵃᵗ｜APP",
+            "type": 3,
+            "api": "./js/永乐视频.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+				},
+				{
+            "key": "cat_123TV",
+            "name": "📱壹影网ᶜᵃᵗ｜APP",
+            "type": 3,
+            "api": "./js/cat_123TV.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+					}
+					{
+            "key": "cat_旺旺网",
+            "name": "📱旺旺网ᶜᵃᵗ｜APP",
+            "type": 3,
+            "api": "./js/旺旺.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+					},
+          {
+            "key": "布布影视",
+            "name": "📱布布网ᶜᵃᵗ｜APP",
+            "type": 3,
+            "api": "./js/ysapp.js",
+            "ext": {
+                "host": "https://asd123sx23xdacsx.top",
+                "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
+                "updateId": "38b0ddfd-9aa3-8e42-5c92-a7fddd3d36e7",
+                "deviceBrand": "vivo",
+                "deviceModel": "V2309A",
+                "pkg": "com.sunshine.tv",
+                "sk": "SK-thanks",
+                "ver": "6"
+            }
+        },
+            {
+            "key": "js_可可",
+            "name": "📱可可ʲˢ｜APP",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/可可影视.js"
+        },
+            {
+            "key": "大马猴",
+            "name": "📱马猴网ᶜᵃᵗ｜APP",
+            "type": 3,
+            "api": "./js/ysapp.js",
+            "ext": {
+                "host": "https://45.150.167.18:8000",
+                "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
+                "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
+                "deviceBrand": "vivo",
+                "deviceModel": "V2309A",
+                "pkg": "com.damahou.tv",
+                "sk": "SK-woniu-thanks",
+                "ver": "1",
+                "filterDef": {
+                    "电影": {
+                        "地区": "大陆,中国",
+                        "类型": "喜剧"
+                    },
+                    "动漫": {
+                        "地区": "大陆,中国"
+                    }
+                }
+            }
+        },
+					{
+            "key": "电影天堂",
+            "name": "📱天堂网ᶜʲ┃采集",
+            "type": 1,
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "playUrl": "",
+            "categories": [
+                
+                "国产剧"
+							]
+					},
+					{
+            "key": "无水印网",
+            "name": "📱水源网ᶜʲ┃采集",
+            "type": 1,
+            "api": "https://api.wsyzy.net/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧"
+							]
+					},
+          {
+            "key": "cat布谷音乐",
+            "name": "📱布谷ᶜᵃᵗ｜音乐",
+            "type": 3,
+            "api": "./js/布谷音乐.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+        },
+					
+					
+	]
+}
