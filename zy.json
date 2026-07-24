@@ -1,5 +1,7 @@
 {	
 	"spider": "",
+	"wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  	"danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
 	"sites": [
 				{
             "key": "cat_骚火",
