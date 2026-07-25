@@ -474,7 +474,7 @@
       "filterable": 1,
       "jar": "./jars/xm.jpg",
       "ext": {
-        "index_url": "./lib/com.baiyunvideo.app.json",
+        "index_url": "./jison/com.baiyunvideo.app.json",
         "key_api": "https://www.tangsan.fun/zx.php"
       }
       },
