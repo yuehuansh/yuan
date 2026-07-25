@@ -455,16 +455,55 @@
     },
     {
       "key": "天天",
-      "name": "🚀秒播┃1080Pxm",
+      "name": "🚀秒播┃高清影视xm",
       "type": 3,
       "quickSearch": 1,
       "searchable": 1,
       "api": "csp_AppRJ",
       "timeout": 12,
-      "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg=", 
-      "jar": "./jars/20260710xm.jpg"
+      "jar": "./jars/xm.jpg",
+      "ext": "http://v.rbotv.cn"
     },
-    
+      {
+      "key": "YunZhenXiang",
+      "name": "🚀秒播┃极速帧享xm",
+      "type": 3,
+      "api": "csp_YunZhenXiang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/xm.jpg",
+      "ext": {
+        "index_url": "./lib/com.baiyunvideo.app.json",
+        "key_api": "https://www.tangsan.fun/zx.php"
+      },
+      {
+      "key": "Osstexll",
+      "name": "🐷八戒┃高清影视xm",
+      "type": 3,
+      "api": "csp_Tounimabi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/xm.jpg",
+      "ext": ""
+    },  
+    {
+      "key": "荐片",
+      "name": "🧲荐片┃高清影视xm",
+      "quickSearch": 1,
+      "changeable": "0",
+      "searchable": 1,
+      "timeout": 15,
+      "type": 3,
+      "api": "csp_Jianpian",
+      "style": {
+        "type": "rect",
+        "jar": "./jars/xm.jpg",
+        "ratio": 1.333
+      },
+      "ext": "https://api.ztcgi.com"
+    },
     {
       "key": "爱营",
       "name": "💥爱影┃1080Pxm",
