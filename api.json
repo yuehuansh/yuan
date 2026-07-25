@@ -498,9 +498,9 @@
       "timeout": 15,
       "type": 3,
       "api": "csp_Jianpian",
+      "jar": "./jars/xm.jpg",
       "style": {
         "type": "rect",
-        "jar": "./jars/xm.jpg",
         "ratio": 1.333
       },
       "ext": "https://api.ztcgi.com"
