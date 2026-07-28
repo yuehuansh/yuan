@@ -116,6 +116,47 @@
                 }
             }
         },
+		{
+      "key": "独播JS",
+      "name": "独播丨JS",
+      "type": 3,
+      "api": "./js/独播库.js"
+    },
+		{
+      "key": "葫芦影视",
+      "name": "丨葫芦丨影视",
+      "type": 3,
+      "api": "./js/get.js",
+      "ext": {
+        "host": "./lib/maccos_config.txt",
+        "key": "8R33VQSxzmCaHpEX",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+		{
+      "key": "雄鹰影视",
+      "name": "雄鹰丨影视",
+      "type": 3,
+      "api": "./js/get.js",
+      "ext": {
+        "host": "./lib/xly.txt",
+        "key": "ca94b06ca359d80e",
+        "init": "V120",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      },
+      "categories": [
+        "动漫",
+        "电视剧",
+        "电影",
+        "综艺",
+        "短剧",
+        "少儿",
+        "纪录片"
+      ]
+    },
 					{
             "key": "电影天堂",
             "name": "📱天堂网ᶜʲ┃采集",
