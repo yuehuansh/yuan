@@ -185,6 +185,15 @@
 							]
 					},
 		{
+            "key": "Cat_喜马拉雅",
+            "name": "📱喜马ᶜᵃᵗ丨听书",
+            "type": 3,
+            "api": "./js/ximalaya_ting.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+		{
             "key": "Cat_听海",
             "name": "📱听海ᶜᵃᵗ丨音乐",
             "type": 3,
