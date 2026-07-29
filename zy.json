@@ -185,6 +185,24 @@
 							]
 					},
 		{
+            "key": "Cat_梨园戏",
+            "name": "🎭 梨园ᶜᵃᵗ丨戏曲",
+            "type": 3,
+            "api": "./js/liyuan_xi.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+		{
+            "key": "Cat_聚合音乐",
+            "name": "🎻 聚合ᶜᵃᵗ丨音乐",
+            "type": 3,
+            "api": "./js/yinyue_juhe.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+		{
             "key": "Cat_喜马拉雅",
             "name": "📱喜马ᶜᵃᵗ丨听书",
             "type": 3,
