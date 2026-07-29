@@ -184,6 +184,15 @@
                 "国产剧"
 							]
 					},
+		{
+            "key": "Cat_听海",
+            "name": "📱听海ᶜᵃᵗ丨音乐",
+            "type": 3,
+            "api": "./js/tinghai_ting.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
           {
             "key": "cat布谷音乐",
             "name": "📱布谷ᶜᵃᵗ｜音乐",
