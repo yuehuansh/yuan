@@ -111,39 +111,58 @@
         "ver": "6"
       }
     },
-    
-    
     {
-      "key": "无极99",
-      "name": "无极 • APP",
+      "key": "马猴影视",
+      "name": "马猴 • APP",
       "type": 3,
-      "api": "csp_App99",
+      "api": "csp_App3Q",
       "ext": {
-        "host": "http://111.170.140.70:19987/app/bn",
-        "LoginPath": "/app/log",
-        "version": "",
-        "appkey": "c403317c2a2946659b0bcbabdd5de43a",
-        "versionName": "1.0.1",
-        "name": "无极影视",
-        "package": "com.wujiys.app",
-        "buildNumber": "2001",
-        "buildSignature": "A0859BDC35AD3E81D4051E2A4678C77C62773EDB3423DDF1DEFF94CB331D398E"
+        "host": "https://45.150.167.18:8000",
+        "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
+        "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
+        "deviceBrand": "vivo",
+        "deviceModel": "V2309A",
+        "pkg": "com.damahou.tv",
+        "sk": "SK-woniu-thanks",
+        "ver": "1"
       }
     },
     {
-      "key": "橙子99",
-      "name": "橙子 • APP",
+      "key": "云朵影视",
+      "name": "云朵 • APP",
+      "type": 3,
+      "api": "csp_App3Q",
+      "ext": {
+        "host": "https://ds3xy2yunsa.xyz",
+        "finger": "SF-F5F11CB15897115AE6BCFE063C288F730CA865588F572C780A3E8477D0DD3776",
+        "updateId": "175070c3-075c-468b-950a-bf575769f4f1",
+        "deviceBrand": "vivo",
+        "deviceModel": "V2309A",
+        "pkg": "com.tvcloud.io",
+        "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
+        "ver": "1"
+      }
+    },
+    {
+      "key": "韩圈",
+      "name": "韩圈 • APP",
+      "type": 3,
+      "api": "csp_Hxq",
+      "ext": "http://www.小不点.com/api/2026/fishhxq.php"
+    },
+    {
+      "key": "剧圈99",
+      "name": "剧圈 • APP",
       "type": 3,
       "api": "csp_App99",
       "ext": {
-        "host": "http://113.31.180.218:19987/app/bn",
-        "LoginPath": "/app/log",
-        "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
-        "versionName": "4.3.1",
-        "name": "小橙子",
-        "package": "com.xchengzix.app",
-        "buildNumber": "2001",
-        "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
+        "host": "http://124.221.3.182:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
     },
     {
@@ -163,37 +182,6 @@
       }
     },
     {
-      "key": "剧圈99",
-      "name": "剧圈 • APP",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://124.221.3.182:19987/app/bn",
-        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-        "versionName": "1.2.0",
-        "name": "剧圈圈",
-        "package": "com.qingtangxiaozhuan.xyz",
-        "buildNumber": "2002",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      }
-    },
-    {
-      "key": "顾我99",
-      "name": "顾我 • APP",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://117.50.200.113:19987/app/bn",
-        "LoginPath": "/app/log",
-        "appkey": "040f9b1bc5e942569b5c3e63943306ab",
-        "versionName": "4.3.1",
-        "name": "顾我追剧",
-        "package": "com.guwozhuijux.app",
-        "buildNumber": "2001",
-        "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
-      }
-    },
-    {
       "key": "天堂",
       "name": "天堂 • APP",
       "type": 3,
@@ -208,7 +196,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.dytiantang.one",
         "host": "",
-        "site": "./lib/XS20260715/app_dyttandroid.txt",
+        "site": "./lib/app_dyttandroid.txt",
         "version": "3.0.0.7",
         "decrypt": "0"
       }
@@ -228,7 +216,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.lxf.snzlcgtzxyx",
         "host": "",
-        "site": "./lib/XS20260715/app.txt",
+        "site": "./lib/app.txt",
         "version": "3.0.2.1",
         "decrypt": "1"
       }
@@ -248,7 +236,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.muyue.tool",
         "host": "",
-        "site": "./lib/XS20260715/az5.txt",
+        "site": "./lib/az5.txt",
         "version": "1.0.0.4",
         "decrypt": "1"
       }
@@ -268,7 +256,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.juechufsh.android.xpg1",
         "host": "",
-        "site": "./lib/XS20260715/app_xpg_android.txt",
+        "site": "./lib/app_xpg_android.txt",
         "version": "1.0.0.3",
         "decrypt": "0"
       }
@@ -288,7 +276,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.st.standroid",
         "host": "",
-        "site": "./lib/XS20260715/app_dyttandroid.txt",
+        "site": "./lib/app_dyttandroid.txt",
         "version": "5.0.0.1",
         "decrypt": "0"
       }
@@ -304,6 +292,22 @@
       "ext": "https://qpcj.69mini.com/api.php/app/"
     },
     {
+      "key": "金牌",
+      "name": "金牌 • APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://qj4.catbb.xyz",
+        "dataKey": "eecbio48dsq13kkk",
+        "dataIv": "eecbio48dsq13kkk",
+        "search": "searchList4",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
       "key": "蓝鹰",
       "name": "蓝鹰 • APP",
       "type": 3,
@@ -311,7 +315,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "site": "./lib/XS20260715/xly.txt",
+        "site": "./lib/xly.txt",
         "dataKey": "ca94b06ca359d80e",
         "dataIv": "ca94b06ca359d80e",
         "init": "initV120",
@@ -326,24 +330,11 @@
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "site": "./lib/XS20260715/602.txt",
+        "site": "./lib/602.txt",
         "dataKey": "FTgP4Gq8zPiqbt7M",
         "dataIv": "FTgP4Gq8zPiqbt7M",
         "init": "initV120",
         "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "王子",
-      "name": "王子 • APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://app.95112475.xyz",
-        "dataKey": "5a9w6x58dsq6z3a6",
-        "dataIv": "5a9w6x58dsq6z3a6"
       }
     },
     {
@@ -383,6 +374,19 @@
         "url": "https://www.douy32mf.top",
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
+      }
+    },
+    {
+      "key": "王子",
+      "name": "王子 • APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://app.95112475.xyz",
+        "dataKey": "5a9w6x58dsq6z3a6",
+        "dataIv": "5a9w6x58dsq6z3a6"
       }
     },
     {
