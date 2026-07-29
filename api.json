@@ -684,10 +684,10 @@
       "playerType": 2
     },
     {
-      "key": "悟空影视",
-      "name": "悟空影视py",
+      "key": "4KVM",
+      "name": "4KVM py",
       "type": 3,
-      "api": "./api/悟空影视.py",
+      "api": "./api/4KVM.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
