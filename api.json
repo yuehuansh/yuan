@@ -190,7 +190,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.dytiantang.one",
         "host": "",
-        "site": "./lib/xs20260715/app_dyttandroid.txt",
+        "site": "./lib/XS20260715/app_dyttandroid.txt",
         "version": "3.0.0.7",
         "decrypt": "0"
       }
@@ -210,7 +210,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.lxf.snzlcgtzxyx",
         "host": "",
-        "site": "./lib/xs20260715/app.txt",
+        "site": "./lib/XS20260715/app.txt",
         "version": "3.0.2.1",
         "decrypt": "1"
       }
@@ -230,7 +230,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.muyue.tool",
         "host": "",
-        "site": "./lib/xs20260715/az5.txt",
+        "site": "./lib/XS20260715/az5.txt",
         "version": "1.0.0.4",
         "decrypt": "1"
       }
@@ -250,7 +250,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.juechufsh.android.xpg1",
         "host": "",
-        "site": "./lib/xs20260715/app_xpg_android.txt",
+        "site": "./lib/XS20260715/app_xpg_android.txt",
         "version": "1.0.0.3",
         "decrypt": "0"
       }
@@ -270,7 +270,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.st.standroid",
         "host": "",
-        "site": "./lib/xs20260715/app_dyttandroid.txt",
+        "site": "./lib/XS20260715/app_dyttandroid.txt",
         "version": "5.0.0.1",
         "decrypt": "0"
       }
@@ -309,7 +309,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "site": "./lib/xs20260715/xly.txt",
+        "site": "./lib/XS20260715/xly.txt",
         "dataKey": "ca94b06ca359d80e",
         "dataIv": "ca94b06ca359d80e",
         "init": "initV120",
@@ -324,7 +324,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "site": "./lib/xs20260715/602.txt",
+        "site": "./lib/XS20260715/602.txt",
         "dataKey": "FTgP4Gq8zPiqbt7M",
         "dataIv": "FTgP4Gq8zPiqbt7M",
         "init": "initV120",
@@ -391,7 +391,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "site": "./lib/xs20260715/9.txt",
+        "site": "./lib/XS20260715/9.txt",
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725"
       }
