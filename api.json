@@ -84,6 +84,22 @@
       ]
     },
     {
+            "key": "大众资源",
+            "name": "大众资源┃[采集]",
+            "type": 1,
+            "api": "https://cdn.dzzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "playUrl": "",
+            "categories": [
+                
+                "国产剧",
+                "港台剧"
+            ]
+        }, 
+    {
       "key": "热播影视",
       "name": "热播 • APP",
       "type": 3,
@@ -316,34 +332,7 @@
         "ua": "okhttp/3.10.0"
       }
     },
-    {
-      "key": "高清",
-      "name": "高清 • APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "./lib/XS20260715/602.txt",
-        "dataKey": "FTgP4Gq8zPiqbt7M",
-        "dataIv": "FTgP4Gq8zPiqbt7M",
-        "init": "initV120",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "麻花",
-      "name": "麻花 • APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "http://150.158.123.62:130",
-        "dataKey": "q7gj4f9br3fls6nh",
-        "dataIv": "q7gj4f9br3fls6nh"
-      }
-    },
+    
     {
       "key": "不戳",
       "name": "不戳 • APP",
@@ -712,24 +701,7 @@
       "api": "csp_AppTe",
       "jar": "./jars/xm.jpg"
     },
-    {
-      "key": "听心99",
-      "name": "🦉欣欣┃1080P",
-      "type": 3,
-      "api": "csp_App99",
-      "jar": "./jars/xm.jpg",
-      "ext": {
-        "host": "https://api.12321app.com/api",
-        "LoginPath": "/app/log",
-        "version": "0b4328287a5d953e",
-        "appkey": "a0a18659a9977a47e53442cd084b536c",
-        "versionName": "2.8.1",
-        "name": "听心视频",
-        "package": "com.iksp.adsys.jjsp",
-        "buildNumber": "2001",
-        "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
-      }
-    },
+    
     {
       "key": "荐片",
       "name": "荐片 • 磁力",
