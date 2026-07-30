@@ -695,6 +695,51 @@
       "playerType": 2
     },
     {
+      "key": "58影视",
+      "name": "58影视 py",
+      "type": 3,
+      "api": "./api/58影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "万彩坊影视",
+      "name": "万彩坊影视 py",
+      "type": 3,
+      "api": "./api/万彩坊影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "西瓜影视",
+      "name": "西瓜影视 py",
+      "type": 3,
+      "api": "./api/西瓜影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "影库",
+      "name": "影库 py",
+      "type": 3,
+      "api": "./api/影库.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    
+    {
       "key": "麦田",
       "name": "🌾麦田┃1080Pxm",
       "type": 3,
@@ -767,6 +812,17 @@
       "style": {
         "type": "list"
       }
+    },
+    {
+      "key": "悦听",
+      "name": "悦听 py",
+      "type": 3,
+      "api": "./api/悦听.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "世界听书",
