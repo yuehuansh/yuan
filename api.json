@@ -744,7 +744,28 @@
       "filterable": 1,
       "playerType": 2
     },
-    
+    {
+      "key": "布布4K",
+      "name": "布布4K py",
+      "type": 3,
+      "api": "./api/布布4K.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "剧OK",
+      "name": "剧OK py",
+      "type": 3,
+      "api": "./api/剧OK.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
     {
       "key": "麦田",
       "name": "🌾麦田┃1080Pxm",
