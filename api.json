@@ -609,7 +609,8 @@
       "name": "追光影视py",
       "type": 3,
       "timeout": 15,
-      "api": "./api/追光影视.py"
+      "api": "./api/追光影视.py",
+      "ext": ""
       
     },
     {
