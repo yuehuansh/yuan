@@ -46,6 +46,13 @@
             },
             "changeable": 1
 				},
+		{
+            "key": "泥泥视频",
+            "name": "📱泥泥视频｜js",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext":"./js/泥泥视频.js"
+				},
 				{
             "key": "cat_123TV",
             "name": "📱壹影网ᶜᵃᵗ｜APP",
