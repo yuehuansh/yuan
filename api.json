@@ -769,6 +769,25 @@
       "filterable": 1,
       "playerType": 2
     },
+     {
+            "key": " 爱剧PY",
+            "name": "👖 丨爱剧丨PY",
+            "type": 3,
+            "api": "./api/爱剧.py",
+            "ext": "http://43.248.117.123:4680"
+        },
+    {
+            "key": "爱瓜4K",
+            "name": "👖爱瓜丨4K",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/aigua1.php",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+                          },
+            "changeable": 1
+        }, 
     {
       "key": "麦田",
       "name": "🌾麦田┃1080Pxm",
