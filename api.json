@@ -604,6 +604,26 @@
       }
     },
     {
+      "key": "AiKan_Spider",
+      "name": "🚀秒播┃爱看剧场xm",
+      "type": 3,
+      "api": "csp_AiKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://43.248.117.123:4680"
+    },
+    {
+      "key": "HkybSpider",
+      "name": "🚀秒播┃世界影视xm",
+      "type": 3,
+      "api": "csp_HkybSpider",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
       "key": "Osstexll",
       "name": "🐷八戒┃高清影视xm",
       "type": 3,
@@ -648,6 +668,22 @@
       "api": "csp_App3Q",
       "ext": "https://asd123sx23xdacsx.top",
       "jar": "./jars/xm.jpg"
+    },
+    {
+      "key": "橙子",
+      "name": "🍊橙子┃高清影视xm",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://113.31.180.218:19987/app/bn",
+        "LoginPath": "/app/log",
+        "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
+        "versionName": "4.3.1",
+        "name": "小橙子",
+        "package": "com.xchengzix.app",
+        "buildNumber": "2001",
+        "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
+      }
     },
     {
       "key": "追光影视",
