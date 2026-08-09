@@ -661,23 +661,7 @@
       "ext": "https://asd123sx23xdacsx.top",
       "jar": "./jars/xm.jpg"
     },
-    {
-      "key": "橙子",
-      "name": "🍊橙子┃高清影视xm",
-      "type": 3,
-      "api": "csp_App99",
-      "jar": "./jars/xm.jpg",
-      "ext": {
-        "host": "http://113.31.180.218:19987/app/bn",
-        "LoginPath": "/app/log",
-        "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
-        "versionName": "4.3.1",
-        "name": "小橙子",
-        "package": "com.xchengzix.app",
-        "buildNumber": "2001",
-        "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
-      }
-    },
+    
     {
       "key": "追光影视",
       "name": "追光影视py",
@@ -810,17 +794,7 @@
       "filterable": 1,
       "playerType": 2
     },
-    {
-      "key": "影库",
-      "name": "影库 py",
-      "type": 3,
-      "api": "./api/影库.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
+    
     {
       "key": "布布4K",
       "name": "布布4K py",
@@ -861,7 +835,16 @@
                 "ratio": 1.33
                           },
             "changeable": 1
-        }, 
+        },
+    {
+      "key": "裤佬爬虫影视",
+      "name": "👖裤佬丨爬虫丨影视",
+      "type": 1,
+      "api": "https://dy.7772888.xyz/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "麦田",
       "name": "🌾麦田┃1080Pxm",
