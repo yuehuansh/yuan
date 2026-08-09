@@ -603,16 +603,7 @@
         "key_api": "https://www.tangsan.fun/zx.php"
       }
     },
-    {
-      "key": "AiKan_Spider",
-      "name": "🚀秒播┃爱看剧场xm",
-      "type": 3,
-      "api": "csp_AiKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://43.248.117.123:4680"
-    },
+    
     {
       "key": "HkybSpider",
       "name": "🚀秒播┃世界影视xm",
@@ -621,6 +612,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "./jars/xm.jpg",
       "ext": ""
     },
     {
@@ -674,6 +666,7 @@
       "name": "🍊橙子┃高清影视xm",
       "type": 3,
       "api": "csp_App99",
+      "jar": "./jars/xm.jpg",
       "ext": {
         "host": "http://113.31.180.218:19987/app/bn",
         "LoginPath": "/app/log",
