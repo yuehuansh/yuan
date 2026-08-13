@@ -29,6 +29,7 @@
       "type": 3,
       "api": "csp_LocalFile"
     },
+    //采集
     {
       "key": "裤佬-EmbyJS",
       "name": "EMBY❤免扫4K",
@@ -99,6 +100,24 @@
                 "港台剧"
             ]
         }, 
+    {
+      "api": "https://moovie.c2v2.com/api/vod",
+      "filterable": 0,
+      "key": "moovie",
+      "name": "Moovie 影牛 采集",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+        }, 
+    //直播
+    {
+      "key": "央视网",
+      "name": "CCTV_直播_py",
+      "type": 1,
+      "timeout": 15,
+      "api": "./api/央视网.py"
+    },
+    //
     {
       "key": "热播影视",
       "name": "热播 • APP",
