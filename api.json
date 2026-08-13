@@ -113,8 +113,7 @@
     {
       "key": "央视网",
       "name": "CCTV_直播_py",
-      "type": 1,
-      "timeout": 15,
+      "type": 0,
       "api": "./api/央视网.py"
     },
     //
