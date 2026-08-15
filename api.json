@@ -109,6 +109,15 @@
       "searchable": 1,
       "type": 1
         }, 
+    {
+        "name":"💝 热播",
+        "api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666",
+        "filterable":0,
+        "key":"2070335664787820544",
+        "quickSearch": 1,
+        "searchable":1,
+        "type":4
+    },
     //直播
     {
       
