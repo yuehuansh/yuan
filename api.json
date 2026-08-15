@@ -336,21 +336,7 @@
         "ua": "okhttp/3.10.0"
       }
     },
-    {
-      "key": "爱影",
-      "name": "爱影 • APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "./lib/q26.txt",
-        "dataKey": "0UKM8jkasM8tdzgW",
-        "dataIv": "0UKM8jkasM8tdzgW",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },
+    
     {
       "key": "怀桑",
       "name": "怀桑 • APP",
@@ -636,16 +622,7 @@
       },
       "ext": "https://api.ztcgi.com"
     },
-    {
-      "key": "爱营",
-      "name": "💥爱影┃热门4K 🌰",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "jar":"./jars/xm.zip", 
-      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|0UKM8jkasM8tdzgW|V122|okhttp/3.10.0"
-    },
+    
     {
       "key": "bubu_spider",
       "name": "🌺大鹅┃高清影视 🌰",
