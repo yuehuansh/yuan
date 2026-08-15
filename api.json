@@ -596,7 +596,7 @@
       "ext": {
         "index_url": "./lib/com.huohuavideo.app.json",
         "key_api": "https://www.tangsan.fun/zx.php"
-      }
+      },
     
     {
       "key": "HkybSpider",
