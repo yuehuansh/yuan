@@ -817,10 +817,10 @@
     },
     
     {
-      "key": "布布4K",
-      "name": "布布4K py",
+      "key": "4K电影网",
+      "name": "4K电影网 py",
       "type": 3,
-      "api": "./api/布布4K.py",
+      "api": "./api/4K电影网.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
