@@ -163,7 +163,7 @@
     },
 		{
       "key": "光影影視",
-      "name": "🌟💚光影🌟影視💚🌟",
+      "name": "🌟💚光影🌟影視💚🌟JS",
       "type": 3,
       "api": "./js/get.js",
       "ext": {
@@ -173,6 +173,14 @@
         "api": 2,
         "ua": "okhttp/3.10.0"
       }
+    },
+		{
+      "key": "界影视",
+      "name": "界影视┃影视JS",
+      "type": 3,
+      "api": "./界影视.js",
+	  "quickSearch": 1,
+      "searchable": 1
     },
 		{
       "key": "雄鹰影视",
