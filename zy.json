@@ -178,7 +178,7 @@
       "key": "界影视",
       "name": "界影视┃影视JS",
       "type": 3,
-      "api": "./界影视.js",
+      "api": "./js/界影视.js",
 	  "quickSearch": 1,
       "searchable": 1
     },
