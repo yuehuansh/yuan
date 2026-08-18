@@ -162,6 +162,19 @@
       }
     },
 		{
+      "key": "光影影視",
+      "name": "🌟💚光影🌟影視💚🌟",
+      "type": 3,
+      "api": "./js/get.js",
+      "ext": {
+        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt",
+        "key": "FTgP4Gq8zPiqbt7M",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+		{
       "key": "雄鹰影视",
       "name": "雄鹰丨影视",
       "type": 3,
