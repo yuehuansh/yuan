@@ -821,17 +821,7 @@
       "filterable": 1,
       "playerType": 2
     },
-    {
-      "key": "枫叶4K",
-      "name": "枫叶4K py",
-      "type": 3,
-      "api": "./api/枫叶4K.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
+    
     {
       "key": "咕噜4K",
       "name": "咕噜4K py",
