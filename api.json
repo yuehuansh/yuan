@@ -564,17 +564,7 @@
       "jar": "./jars/awu.jar",
       "ext": "AppV6Dxs"
     },
-    {
-      "key": "天天",
-      "name": "🚀秒播┃高清影视 🌰",
-      "type": 3,
-      "quickSearch": 1,
-      "searchable": 1,
-      "api": "csp_AppRJ",
-      "timeout": 12,
-      "jar":"./jars/xm.jar", 
-      "ext": "http://v.rbotv.cn"
-    },
+    
     {
       "key": "YunZhenXiang",
       "name": "🚀秒播┃极速帧享🌰",
