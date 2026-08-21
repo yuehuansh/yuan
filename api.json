@@ -554,16 +554,12 @@
       "ext": "./lib/XS20260715/JQYS.json"
     },
     {
-      "name": "📦师兄┃秒播",
-      "key": "AppV6Dxs",
-      "type": 3,
-      "api": "csp_AppV6Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "./jars/awu.jar",
-      "ext": "AppV6Dxs"
-    },
+            "key": "大师兄影视",
+            "name": "大师兄影视_js",
+            "type": 3,
+            "api": "./js/大师兄影视.js"
+			
+        },
     
     {
       "key": "YunZhenXiang",
