@@ -644,7 +644,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/xm.zip", 
+      "jar":"./jars/xm.jar", 
       "ext": ""
     },
     {
@@ -656,7 +656,7 @@
       "timeout": 15,
       "type": 3,
       "api": "csp_Jianpian",
-      "jar":"./jars/xm.zip", 
+      "jar":"./jars/xm.jar", 
       "style": {
         "type": "rect",
         "ratio": 1.333
@@ -672,7 +672,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/xm.zip", 
+      "jar":"./jars/xm.jar", 
       "ext": {
         "host": "https://323433ssdfd.top",
         "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
@@ -690,7 +690,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar":"./jars/xm.zip", 
+      "jar":"./jars/xm.jar", 
       "ext": "https://www.vip1949.com/"
     },
     {
@@ -701,7 +701,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/xm.zip", 
+      "jar":"./jars/xm.jar", 
       "ext": {
         "appName": "橘汁",
         "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
