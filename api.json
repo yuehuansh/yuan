@@ -572,7 +572,7 @@
       "searchable": 1,
       "api": "csp_AppRJ",
       "timeout": 12,
-      "jar":"./jars/xm.zip", 
+      "jar":"./jars/xm.jar", 
       "ext": "http://v.rbotv.cn"
     },
     {
@@ -583,11 +583,22 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/xm.zip", 
+      "jar":"./jars/xm.jar", 
       "ext": {
         "index_url": "./lib/com.huohuavideo.app.json",
         "key_api": "https://www.tangsan.fun/zx.php"
       }
+    },
+    {
+      "key": "AiKan_Spider",
+      "name": "🚀秒播┃爱看剧场🌰",
+      "type": 3,
+      "api": "csp_AiKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./jars/xm.jar", 
+      "ext": "http://43.248.117.123:4680"
     },
     {
       "key": "HkybSpider",
@@ -597,8 +608,33 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/xm.zip", 
+      "jar":"./jars/xm.jar", 
       "ext": ""
+    },
+    {
+      "key": "爱影视",
+      "name": "🚀爱影┃高清影视🌰",
+      "type": 3,
+      "api": "csp_WhaleApp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./jars/xm.jar", 
+      "ext": {
+        "proxy": "https://www.tangsan.fun/jingyu.php",
+        "site": "aiyingshi",
+        "pic": "http://222.211.75.252:23433"
+      }
+    },
+    {
+      "key": "4K影视",
+      "name": "🌾热门┃低版4K"🌰,
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar":"./jars/xm.jar", 
+      "quickSearch": 1,
+      "timeout": 12,
+      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
     },
     {
       "key": "Osstexll",
@@ -679,6 +715,7 @@
         "decrypt": "1"
       }
     },
+    //pY
     {
       "key": "追光影视",
       "name": "追光影视py",
