@@ -628,7 +628,7 @@
     },
     {
       "key": "4K影视",
-      "name": "🌾热门┃低版4K"🌰,
+      "name": "🌾热门┃低版4K🌰",
       "type": 3,
       "api": "csp_AppGet",
       "jar":"./jars/xm.jar", 
