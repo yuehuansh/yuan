@@ -861,18 +861,6 @@
       "playerType": 2
     },
     {
-      "key": "剧OK",
-      "name": "剧OK py",
-      "type": 3,
-      "api": "./api/剧OK.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    
-    {
       "key": "咕噜4K",
       "name": "咕噜4K py",
       "type": 3,
