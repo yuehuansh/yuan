@@ -597,21 +597,7 @@
       "jar":"./jars/xm.jar", 
       "ext": ""
     },
-    {
-      "key": "爱影视",
-      "name": "🚀爱影┃高清影视🌰",
-      "type": 3,
-      "api": "csp_WhaleApp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"./jars/xm.jar", 
-      "ext": {
-        "proxy": "https://www.tangsan.fun/jingyu.php",
-        "site": "aiyingshi",
-        "pic": "http://222.211.75.252:23433"
-      }
-    },
+    
     {
       "key": "4K影视",
       "name": "🌾热门┃低版4K🌰",
