@@ -533,19 +533,7 @@
         "简介": "简介：&&"
       }
     },
-    {
-      "key": "永乐影视",
-      "name": "永乐 • 影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
-        "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
-      }
-    },
+    
     {
       "key": "剧圈影视",
       "name": "剧圈 • 影视",
@@ -553,14 +541,15 @@
       "api": "csp_XYQHiker",
       "ext": "./lib/XS20260715/JQYS.json"
     },
+	  //JS
     {
             "key": "大师兄影视",
-            "name": "大师兄影视_js",
+            "name": "大师兄影视 |JS",
             "type": 3,
             "api": "./js/大师兄影视.js"
-			
         },
-    
+	  
+    //小米
     {
       "key": "YunZhenXiang",
       "name": "🚀秒播┃极速帧享🌰",
@@ -672,7 +661,7 @@
     //pY
     {
       "key": "追光影视",
-      "name": "追光影视py",
+      "name": "追光影视 |PY",
       "type": 3,
       "timeout": 15,
       "api": "./api/追光影视.py",
@@ -681,7 +670,7 @@
     },
     {
       "key": "山楂",
-      "name": "🔴山楂┃1080Ppy",
+      "name": "🔴山楂┃ PY",
       "type": 3,
       "timeout": 15,
       "api": "./api/shanzha.py",
@@ -689,7 +678,7 @@
     },
     {
       "key": "瓜子",
-      "name": "瓜子py",
+      "name": "瓜子| PY",
       "type": 3,
       "timeout": 15,
       "api": "./api/瓜子影视.py",
@@ -697,7 +686,7 @@
     },
     {
       "key": "威视TV",
-      "name": "威视TVpy",
+      "name": "威视TV| PY",
       "type": 3,
       "timeout": 15,
       "api": "./api/威视TV.py",
@@ -705,7 +694,7 @@
     },
     {
       "key": "万彩坊影视",
-      "name": "🦚万彩坊｜影视py",
+      "name": "🦚万彩坊影视|PY",
       "type": 3,
       "api": "./api/万彩坊影视.py",
       "searchable": 1,
@@ -716,7 +705,7 @@
     },
     {
       "key": "华数TV",
-      "name": "🦚华数TV｜py",
+      "name": "🦚华数TV｜PY",
       "type": 3,
       "api": "./api/华数TV.py",
       "searchable": 1,
@@ -727,7 +716,7 @@
     },
     {
       "key": "可可影视",
-      "name": "可可影视py",
+      "name": "可可影视| PY",
       "type": 3,
       "api": "./api/可可影视.py",
       "searchable": 1,
@@ -738,7 +727,7 @@
     },
     {
       "key": "电影人生",
-      "name": "电影人生py",
+      "name": "电影人生|PY",
       "type": 3,
       "api": "./api/电影人生.py",
       "searchable": 1,
@@ -749,7 +738,7 @@
     },
     {
       "key": "4KVM",
-      "name": "4KVM py",
+      "name": "4KVM | PY",
       "type": 3,
       "api": "./api/4KVM.py",
       "searchable": 1,
@@ -760,7 +749,7 @@
     },
     {
       "key": "歪比巴卜",
-      "name": "歪比巴卜 py",
+      "name": "歪比巴卜|PY",
       "type": 3,
       "api": "./api/歪比巴卜.py",
       "searchable": 1,
@@ -771,7 +760,7 @@
     },
     {
       "key": "58影视",
-      "name": "58影视 py",
+      "name": "58影视|PY",
       "type": 3,
       "api": "./api/58影视.py",
       "searchable": 1,
@@ -782,7 +771,7 @@
     },
     {
       "key": "万彩坊影视",
-      "name": "万彩坊影视 py",
+      "name": "万彩坊影| PY",
       "type": 3,
       "api": "./api/万彩坊影视.py",
       "searchable": 1,
@@ -793,7 +782,7 @@
     },
     {
       "key": "西瓜影视",
-      "name": "西瓜影视 py",
+      "name": "西瓜影视|PY",
       "type": 3,
       "api": "./api/西瓜影视.py",
       "searchable": 1,
@@ -805,7 +794,7 @@
     
     {
       "key": "4K电影网",
-      "name": "4K电影网 py",
+      "name": "4K电影网|PY",
       "type": 3,
       "api": "./api/4K电影网.py",
       "searchable": 1,
@@ -816,7 +805,7 @@
     },
     {
       "key": "咕噜4K",
-      "name": "咕噜4K py",
+      "name": "咕噜4K|PY",
       "type": 3,
       "api": "./api/咕噜4K.py",
       "searchable": 1,
@@ -825,9 +814,35 @@
       "filterable": 1,
       "playerType": 2
     },
+	  {
+      "key": "多多影视",
+      "name": "多多影视 | PY",
+      "type": 3,
+      "api": "./api/多多影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "爱剧影视",
+      "name": "爱剧影视 | PY",
+      "type": 3,
+      "api": "./api/爱剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "ext": "http://43.248.117.123:4680"
+    },
     {
       "key": "云朵4K",
-      "name": "云朵 py",
+      "name": "云朵 | PY",
       "type": 3,
       "api": "./api/云朵.py",
       "searchable": 1,
@@ -838,7 +853,7 @@
     },
     {
       "key": "文才",
-      "name": "文才影视py",
+      "name": "文才影视 | PY",
       "type": 3,
       "api": "./api/文才.py",
       "searchable": 1,
