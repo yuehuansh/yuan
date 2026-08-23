@@ -559,6 +559,14 @@
             },
             "changeable": 1
 				},
+	  {
+            "key": "新闪雷js",
+            "name": "👌🏻新闪雷|JS",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/闪雷.js"
+        },
+	  
     //小米
     {
       "key": "YunZhenXiang",
