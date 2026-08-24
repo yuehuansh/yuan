@@ -464,13 +464,7 @@
         "ua": "okhttp/3.10.0"
       }
     },
-    {
-      "key": "修罗影视",
-      "name": "修罗 • 影视",
-      "api": "csp_Xlys",
-      "type": 3,
-      "ext": "https://www.xlysw.ggff.net"
-    },
+   
     {
       "key": "金牌影视",
       "name": "金牌 • 影视",
@@ -508,18 +502,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "小镇影视",
-      "name": "小镇 • 影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "线路数组": "<a data-toggle=\"tab\"&&/a>",
-        "线路标题": ">&&<",
-        "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-      }
-    },
+    
     {
       "key": "面包影视",
       "name": "面包 • 影视",
@@ -604,7 +587,26 @@
       "jar":"./jars/xm.jar", 
       "ext": ""
     },
-    
+    {
+      "key": "壹影视",
+      "name": "🚀秒播┃壹哥影视🌰",
+      "type": 3,
+      "api": "csp_YiYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar":"./jars/xm.jar", 
+      "filterable": 1
+    },
+    {
+      "key": "4K影视2",
+      "name": "👀热门┃低版4K 🌰",
+      "type": 3,
+      "api": "csp_AppGet",
+      "quickSearch": 1,
+      "timeout": 12,
+      "jar":"./jars/xm.jar", 
+      "ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE|V119"
+    },
     {
       "key": "4K影视",
       "name": "🌾热门┃低版4K🌰",
