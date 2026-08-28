@@ -672,6 +672,43 @@
         "decrypt": "1"
       }
     },
+//XBPQ
+	  {
+      "key": "VIP",
+      "name": "🧿VIP影视|XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar":"./jars/XBPQ.jar", 
+      "ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e","请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://www.vipdy.vip/;;!H"}
+    },
+    {
+            "key": "影视大全",
+            "name": "影视大全|XBPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar":"./jars/XBPQ.jar", 
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "数组": "list-exp\"&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "链接": "href=\"&&\"",
+                "主页url": "www.iysdq.com",
+                "分类url": "https://www.iysdq.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;d",
+                "搜索url": "https://www.iysdq.com/vodsearch/{wd}----------{pg}---.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
+            }
+        },
+
+
+	  
     //pY
     {
       "key": "追光影视",
@@ -762,15 +799,13 @@
       "playerType": 2
     },
     {
-      "key": "歪比巴卜",
-      "name": "歪比巴卜|PY",
+      "key": "剧下饭4K",
+      "name": "剧下饭4K|PY",
       "type": 3,
-      "api": "./api/歪比巴卜.py",
+      "api": "./api/剧下饭4K.py",
       "searchable": 1,
       "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
+      "quickSearch": 1
     },
     {
       "key": "58影视",
