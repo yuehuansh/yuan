@@ -3,6 +3,26 @@
 	"wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   	"danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
 	"sites": [
+
+				{
+            
+      				 "key": "drpy_js_豆瓣",
+      				 "name": "搜索 • 豆瓣",
+				     "type": 3,
+				     "api": "./js/drpy2.min.js",
+				     "ext": "./js/drpy.js",
+				     "searchable": 1,
+				     "quickSearch": 0,
+				     "changeable": 0
+    
+       			 }, 
+			{
+            "key": "新闪雷",
+            "name": "👌🏻新闪雷|JS",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/闪雷.js"
+        },
 				{
             "key": "cat_骚火",
             "name": "📱骚火网ᶜᵃᵗ｜APP",
