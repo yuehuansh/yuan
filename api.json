@@ -876,7 +876,28 @@
       "filterable": 1,
       "playerType": 2
     },
-    
+    {
+      "key": "TVB云播",
+      "name": "TVB云播|PY",
+      "type": 3,
+      "api": "./api/TVB云播.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+	 {
+      "key": "雪落",
+      "name": "雪落|PY",
+      "type": 3,
+      "api": "./api/雪落.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    }, 
     {
       "key": "4K电影网",
       "name": "4K电影网|PY",
