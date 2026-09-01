@@ -226,7 +226,26 @@
         "decrypt": "0"
       }
     },
-    
+    {
+      "key": "橘汁",
+      "name": "橘汁 • APP",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "橘汁",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "OW1WBLFZCLJ0WTNJCDMYEGXWYVP3PT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.mxj.wylcjbxyx",
+        "host": "",
+        "site": "./lib/app.txt",
+        "version": "3.0.2.3",
+        "decrypt": "1"
+      }
+    },
     {
       "key": "华谊",
       "name": "华谊 • APP",
@@ -328,7 +347,21 @@
         "ua": "okhttp/3.10.0"
       }
     },
-    
+    {
+      "key": "蓝鸟",
+      "name": "蓝鸟 • APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "./lib/lyjszx.txt",
+        "dataKey": "oW5UxZ5kWVr1DI69",
+        "dataIv": "oW5UxZ5kWVr1DI69",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
     {
       "key": "怀桑",
       "name": "怀桑 • APP",
@@ -590,6 +623,21 @@
       "quickSearch": 1,
       "jar":"./jars/xm.jar", 
       "filterable": 1
+    },
+	  {
+      "key": "爱影视",
+      "name": "👀爱影┃热门4K🌰",
+      "type": 3,
+      "api": "csp_WhaleApp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./jars/xm.jar", 
+      "ext": {
+        "proxy": "https://www.tangsan.fun/jingyu.php",
+        "site": "aiyingshi",
+        "pic": "http://222.211.75.252:23433"
+      }
     },
     {
       "key": "4K影视2",
