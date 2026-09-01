@@ -10,7 +10,7 @@
       				 "name": "搜索 • 豆瓣",
 				     "type": 3,
 				     "api": "./js/drpy2.min.js",
-				     "ext": "./js/drpy.js",
+				     "ext": "./js/douban.js",
 				     "searchable": 1,
 				     "quickSearch": 0,
 				     "changeable": 0
