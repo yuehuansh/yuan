@@ -741,14 +741,7 @@
       "ext": ""
       
     },
-    {
-      "key": "山楂",
-      "name": "🔴山楂┃ PY",
-      "type": 3,
-      "timeout": 15,
-      "api": "./api/shanzha.py",
-      "ext": ""
-    },
+    
     {
       "key": "瓜子",
       "name": "瓜子| PY",
