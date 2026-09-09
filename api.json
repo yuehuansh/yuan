@@ -100,6 +100,14 @@
                 "港台剧"
             ]
         }, 
+	  {
+      "key": "yy",
+      "name": "YY",
+      "type": 1,
+      "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list", 
+      "categories": [
+        "国产剧"
+      ]
     {
       "api": "https://moovie.c2v2.com/api/vod",
       "filterable": 0,
