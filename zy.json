@@ -252,6 +252,16 @@
                 "国产剧"
 							]
 					},
+
+		{
+      "key": "yy",
+      "name": "YY",
+      "type": 1,
+      "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list", 
+      "categories": [
+        "国产剧"
+      ]
+		  },
 		{
             "key": "Cat_梨园戏",
             "name": "🎭 梨园ᶜᵃᵗ丨戏曲",
