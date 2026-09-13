@@ -120,15 +120,7 @@
       "searchable": 1,
       "type": 1
         }, 
-    {
-        "name":"💝 热播",
-        "api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666",
-        "filterable":0,
-        "key":"2070335664787820544",
-        "quickSearch": 1,
-        "searchable":1,
-        "type":4
-    },
+     
     //直播
     {
       
@@ -358,21 +350,7 @@
         "ua": "okhttp/3.10.0"
       }
     },
-    {
-      "key": "怀桑",
-      "name": "怀桑 • APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "./lib/mqxhqj.txt",
-        "dataKey": "kj37zs29q22jk96t",
-        "dataIv": "kj37zs29q22jk96t",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },
+   
     {
       "key": "世界",
       "name": "世界 • APP",
@@ -386,19 +364,7 @@
         "dataIv": "O3K6rYx75Q4xtiIE"
       }
     },
-    {
-      "key": "不戳",
-      "name": "不戳 • APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://appcmszbc.zbc4k.app",
-        "dataKey": "pYrEkiWRYhBLTUTC",
-        "dataIv": "pYrEkiWRYhBLTUTC"
-      }
-    },
+    
     {
       "key": "魔方",
       "name": "魔方 • APP",
@@ -501,13 +467,6 @@
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
-    {
-      "key": "骚火影视",
-      "name": "骚火 • 影视",
-      "type": 3,
-      "api": "csp_SaoHuo",
-      "ext": "https://shdy5.us"
-    },
     
     {
       "key": "骚火影视",
@@ -599,42 +558,8 @@
       "jar":"./jars/xm.jar", 
       "ext": "http://43.248.117.123:4680"
     },
-    {
-      "key": "HkybSpider",
-      "name": "🚀秒播┃世界影视🌰",
-      "type": 3,
-      "api": "csp_HkybSpider",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"./jars/xm.jar", 
-      "ext": ""
-    },
-    {
-      "key": "壹影视",
-      "name": "🚀秒播┃壹哥影视🌰",
-      "type": 3,
-      "api": "csp_YiYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar":"./jars/xm.jar", 
-      "filterable": 1
-    },
-	  {
-      "key": "爱影视",
-      "name": "👀爱影┃热门4K🌰",
-      "type": 3,
-      "api": "csp_WhaleApp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"./jars/xm.jar", 
-      "ext": {
-        "proxy": "https://www.tangsan.fun/jingyu.php",
-        "site": "aiyingshi",
-        "pic": "http://222.211.75.252:23433"
-      }
-    },
+    
+    
     {
       "key": "4K影视2",
       "name": "👀热门┃低版4K 🌰",
@@ -645,16 +570,7 @@
       "jar":"./jars/xm.jar", 
       "ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE|V119"
     },
-    {
-      "key": "4K影视",
-      "name": "🌾热门┃低版4K🌰",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar":"./jars/xm.jar", 
-      "quickSearch": 1,
-      "timeout": 12,
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
-    },
+    
     {
       "key": "Osstexll",
       "name": "🐷八戒┃高清影视 🌰",
@@ -683,28 +599,7 @@
       "ext": "https://api.ztcgi.com"
     },
     
-    {
-      "key": "橘zi",
-      "name": "👀橘汁┃高清影视 🌰",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"./jars/xm.jar", 
-      "ext": {
-        "appName": "橘汁",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "OW1WBLFZCLJ0WTNJCDMYEGXWYVP3PT0=",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "commonKey": "ed5fdsgucxumegqa",
-        "pkg": "com.mxj.wylcjbxyx",
-        "host": "http://juziapp.hzhcbkj.cn",
-        "site": "./lib/app.txt",
-        "version": "3.0.2.3",
-        "decrypt": "1"
-      }
-    },
+   
 //XBPQ
 	  {
       "key": "VIP",
@@ -981,13 +876,7 @@
             "api": "./api/爱剧.py",
             "ext": "http://43.248.117.123:4680"
         },
-	  {
-            "key": " 剧ok",
-            "name": "剧ok丨PY",
-            "type": 3,
-            "api": "./api/剧OK.py"
-            
-        },
+	  
 	  {
             "key": " 影华影院",
             "name": "影华影院丨PY",
@@ -1071,12 +960,7 @@
       "type": 3,
       "api": "./lib/XS20260715/爱听音乐.py"
     },
-    {
-      "key": "索尼音乐",
-      "name": "👖裤佬丨索尼丨音乐",
-      "type": 4,
-      "api": "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335669707739136?token=banye666"
-    },
+    
     {
       "key": "cat_音乐",
       "name": "音乐欣赏",
