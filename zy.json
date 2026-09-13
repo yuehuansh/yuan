@@ -101,15 +101,7 @@
             },
             "changeable": 1
 					},
-          {
-        "name":"💝 热播",
-        "api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666",
-        "filterable":0,
-        "key":"2070335664787820544",
-        "quickSearch": 1,
-        "searchable":1,
-        "type":4
-    },
+         
 		{
             "key": "热播",
             "name": "热播_js",
@@ -182,14 +174,6 @@
       }
     },
 		
-		{
-      "key": "界影视",
-      "name": "界影视┃影视JS",
-      "type": 3,
-      "api": "./js/界影视.js",
-	  "quickSearch": 1,
-      "searchable": 1
-    },
 		{
       "key": "雄鹰影视",
       "name": "雄鹰丨影视",
