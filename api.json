@@ -764,17 +764,7 @@
       "filterable": 1,
       "playerType": 2
     },
-    {
-      "key": "西瓜影视",
-      "name": "西瓜影视|PY",
-      "type": 3,
-      "api": "./api/西瓜影视.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
+    
     {
       "key": "TVB云播",
       "name": "TVB云播|PY",
