@@ -161,7 +161,15 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    
+    {
+      "key": "咕噜",
+      "name": "咕噜 • APP",
+      "type": 3,
+      "api": "csp_Gulu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "马猴影视",
       "name": "马猴 • APP",
@@ -240,12 +248,12 @@
       "ext": {
         "appName": "橘汁",
         "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "OW1WBLFZCLJ0WTNJCDMYEGXWYVP3PT0=",
+        "dataKey": "OW1WBLFZCLJ0WTNJQMRSZ2DYSGNBPT0=",
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.mxj.wylcjbxyx",
         "host": "",
         "site": "./lib/app.txt",
-        "version": "3.0.2.3",
+        "version": "3.0.2.4",
         "decrypt": "1"
       }
     },
@@ -874,6 +882,15 @@
             "api": "./api/影华影院.py"
             
         },
+	   {
+      "key": "csp_HongGuo",
+      "name": "🍎果子┃精选短剧丨PY",
+      "type": 3,
+      "api": "./api/gzdj.py",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 0
+    },
     {
             "key": "爱瓜4K",
             "name": "👖爱瓜丨4K",
