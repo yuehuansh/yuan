@@ -878,6 +878,15 @@
             "quickSearch": 1,
             "api": "./api/4K_v.py"
         },
+	  {
+            "key": "看客app",
+            "name": "看客app丨PY",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "./api/看客app.py"
+        },
 	   {
       "key": "csp_HongGuo",
       "name": "🍎果子┃精选短剧丨PY",
