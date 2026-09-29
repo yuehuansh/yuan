@@ -749,7 +749,17 @@
       "filterable": 1,
       "playerType": 2
     },
-    
+    {
+      "key": "ik4k影院",
+      "name": "ik4k影院|PY",
+      "type": 3,
+      "api": "./api/ik4k影院.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    }, 
     {
       "key": "TVB云播",
       "name": "TVB云播|PY",
