@@ -100,17 +100,22 @@
                 "港台剧"
             ]
         }, 
-	  {
-      "key": "yy",
-      "name": "YY|采集",
-      "type": 1,
-      "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list", 
-	  "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "国产剧"
+	  
+      {
+   			"key": "bfzy",
+		   "name": "暴风┃采集",
+		   "type": 1,
+		   "api": "https://bfzyapi.com/api.php/provide/vod",
+		   "searchable": 1,
+		   "quickSearch": 1,
+		   "filterable": 1,
+		   "timeout": 20,
+		   "categories": [
+        		"国产剧"
       ]
-		  },
+           },
+     
+		  
     {
       "api": "https://moovie.c2v2.com/api/vod",
       "filterable": 0,
@@ -1217,6 +1222,123 @@
         "video/tos/cn"
       ]
     },
+	  {
+            "name": "量子广告",
+            "hosts": [
+                "vip.lz*",
+                "hd.lz*",
+                ".cdnlz",
+                ".cdnlz*"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+[a-z0-9]{18,}\\.ts",
+                "[a-z0-9]{18,}\\.ts\\s+",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[a-z0-9]{18,}\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "非凡广告",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy",
+                ".ffzy*",
+                "super.ffzy",
+                "super.ffzy*",
+                "svipsvip.ffzy",
+                "*.ffzy*"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY(?:\n.*?){8}\n#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY(?:\n(?!#EXT-X-DISCONTINUITY).*){10}\n#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "暴风广告",
+            "hosts": [
+                "bfzy",
+                "bfbfvip",
+				"bfvvs",
+    			"baofeng",
+   				"fengbao",
+                "bfengbf"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
+				"#EXT-X-DISCONTINUITY\\r*\\n+(?:#EXTINF:[\\d.]+,\\r*\\n+[^\\r\\n]+[\\r\\n]*){1,6}#EXT-X-DISCONTINUITY",
+    
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+		},
+	  {
+   "name": "红牛广告",
+   "hosts": [
+    "bfvvs",
+    "hongniu"
+   ],
+   "regex": [
+    "#EXT-X-DISCONTINUITY\\r*\\n+(?:#EXTINF:[\\d.]+,\\r*\\n+[^\\r\\n]+[\\r\\n]*){1,6}#EXT-X-DISCONTINUITY"
+   ]
+  },
+	 {
+   "name": "华华云广告",
+   "hosts": [
+    "hhuus",
+    "hhwenjian"
+   ],
+   "regex": [
+    "#EXT-X-DISCONTINUITY\\r*\\n+(?:#EXTINF:[\\d.]+,\\r*\\n+[^\\r\\n]+[\\r\\n]*){1,6}#EXT-X-DISCONTINUITY"
+   ]
+  },
+  {
+   "name": "光速广告",
+   "hosts": [
+    "gsuus",
+    "guangsu"
+   ],
+   "regex": [
+    "#EXT-X-DISCONTINUITY\\r*\\n+(?:#EXTINF:[\\d.]+,\\r*\\n+[^\\r\\n]+[\\r\\n]*){1,6}#EXT-X-DISCONTINUITY"
+   ]
+  },
+  {
+   "name": "魔都广告",
+   "hosts": [
+    "moduapi",
+    "mdzy"
+   ],
+   "regex": [
+    "#EXT-X-DISCONTINUITY\\r*\\n+(?:#EXTINF:[\\d.]+,\\r*\\n+[^\\r\\n]+[\\r\\n]*){1,6}#EXT-X-DISCONTINUITY"
+   ]
+  },
+  {
+   "name": "速博广告",
+   "hosts": [
+    "subocaiji",
+    "subo"
+   ],
+   "regex": [
+    "#EXT-X-DISCONTINUITY\\r*\\n+(?:#EXTINF:[\\d.]+,\\r*\\n+[^\\r\\n]+[\\r\\n]*){1,6}#EXT-X-DISCONTINUITY"
+   ]
+  },
+  {
+   "name": "金鹰广告",
+   "hosts": [
+    "jinyingzy",
+    "jyzy"
+   ],
+   "regex": [
+    "#EXT-X-DISCONTINUITY\\r*\\n+(?:#EXTINF:[\\d.]+,\\r*\\n+[^\\r\\n]+[\\r\\n]*){1,6}#EXT-X-DISCONTINUITY"
+   ]
+  },
+  {
+   "name": "电影天堂广告",
+   "hosts": [
+    "dyttzy",
+    "dytt"
+   ],
+   "regex": [
+    "#EXT-X-DISCONTINUITY\\r*\\n+(?:#EXTINF:[\\d.]+,\\r*\\n+[^\\r\\n]+[\\r\\n]*){1,6}#EXT-X-DISCONTINUITY"
+   ]
+  }, 
     {
       "name": "火山",
       "hosts": [
