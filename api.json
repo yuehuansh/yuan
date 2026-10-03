@@ -900,6 +900,17 @@
             "quickSearch": 1,
             "api": "./api/看客app.py"
         },
+	  {
+      "key": "飞流视频",
+      "name": "飞流视频|PY",
+      "type": 3,
+      "api": "./api/飞流视频.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    }, 
 	   {
       "key": "csp_HongGuo",
       "name": "🍎果子┃精选短剧丨PY",
