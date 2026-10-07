@@ -1274,9 +1274,7 @@
                 "bfengbf"
             ],
             "regex": [
-                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
-				"#EXT-X-DISCONTINUITY\\r*\\n+(?:#EXTINF:[\\d.]+,\\r*\\n+[^\\r\\n]+[\\r\\n]*){1,6}#EXT-X-DISCONTINUITY",
-    
+               
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
 		},
