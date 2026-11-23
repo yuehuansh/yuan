@@ -485,13 +485,6 @@
       }
     },
     
-    {
-      "key": "剧圈影视",
-      "name": "剧圈 • 影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "ext": "./lib/XS20260715/JQYS.json"
-    },
     
 	  {
             "key": "新闪雷js",
