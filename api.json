@@ -346,27 +346,8 @@
         "decrypt": "1"
       }
     },
-    {
-      "key": "苹果",
-      "name": "苹果 • APP",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "小苹果",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.juechufsh.android.xpg1",
-        "host": "",
-        "site": "./lib/XS20260715/app_xpg_android.txt",
-        "version": "1.0.0.3",
-        "decrypt": "0"
-      }
-    },
     
+
     {
       "key": "蓝鹰",
       "name": "蓝鹰 • APP",
@@ -397,7 +378,6 @@
         "ua": "okhttp/3.10.0"
       }
     },
-   
     {
       "key": "王子",
       "name": "王子 • APP",
@@ -569,7 +549,7 @@
       "key": "独播库",
       "name": "独播库|PY",
       "type": 3,
-      "api": "./py/独播库.py",
+      "api": "./api/独播库.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -584,7 +564,7 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "api": "./py/1234影视.py"
+      "api": "./api/1234影视.py"
     },
     {
       "key": "豆花影视",
@@ -594,14 +574,14 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "api": "./py/豆花影视.py"
+      "api": "./api/豆花影视.py"
     },
 	{
       "key": "小苹果",
       "name": "小苹果┃PY",
       "type": 3,
       "timeout": 15,
-      "api": "./py/小苹果.py"
+      "api": "./api/小苹果.py"
     },
     {
           "key": "新云帧享",
@@ -609,7 +589,7 @@
           "type": 3,
           "quickSearch": 1,
           "searchable": 1,
-          "api": "./py/新云帧享.py"
+          "api": "./api/新云帧享.py"
         }, 
     {
           "key": "影探聚合",
@@ -617,28 +597,28 @@
           "type": 3,
           "quickSearch": 1,
           "searchable": 1,
-          "api": "./py/影探聚合.py"
+          "api": "./api/影探聚合.py"
         }, 
     {
       "key": "虫虫影视",
       "name": "虫虫影视┃PY",
       "type": 3,
       "timeout": 15,
-      "api": "./py/虫虫影视.py"
+      "api": "./api/虫虫影视.py"
     },
     {
       "key": "拾光影视",
       "name": "拾光影视┃PY",
       "type": 3,
       "timeout": 15,
-      "api": "./py/拾光影视.py"
+      "api": "./api/拾光影视.py"
     },
      {
       "key": "华谊影视",
       "name": "华谊影视┃PY",
       "type": 3,
       "timeout": 15,
-      "api": "./py/华谊影视.py"
+      "api": "./api/华谊影视.py"
     },
 	  
     {
@@ -796,7 +776,7 @@
       "key": "西瓜TV",
       "name": "西瓜TV|PY",
       "type": 3,
-      "api": "./py/西瓜TV.py",
+      "api": "./api/西瓜TV.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -805,7 +785,7 @@
       "key": "橘汁视频",
       "name": "橘汁视频|PY",
       "type": 3,
-      "api": "./py/橘汁视频.py",
+      "api": "./api/橘汁视频.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -814,7 +794,7 @@
       "key": "极速追剧",
       "name": "极速追剧|PY",
       "type": 3,
-      "api": "./py/极速追剧.py",
+      "api": "./api/极速追剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -823,7 +803,7 @@
       "key": "金牌",
       "name": "金牌|PY",
       "type": 3,
-      "api": "./py/金牌.py",
+      "api": "./api/金牌.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -853,7 +833,7 @@
       "key": "看看剧",
       "name": "看看剧|PY",
       "type": 3,
-      "api": "./py/看看剧.py",
+      "api": "./api/看看剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -882,7 +862,7 @@
       "key": "河豚",
       "name": "河豚|PY",
       "type": 3,
-      "api": "./py/河豚.py",
+      "api": "./api/河豚.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -892,7 +872,7 @@
       "key": "99影視",
       "name": "99影視|PY",
       "type": 3,
-      "api": "./py/99影視.py",
+      "api": "./api/99影視.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -902,7 +882,7 @@
       "key": "808影院",
       "name": "808影院|PY",
       "type": 3,
-      "api": "./py/808影院.py",
+      "api": "./api/808影院.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -911,7 +891,7 @@
       "key": "达达兔影院",
       "name": "达达兔影院|PY",
       "type": 3,
-      "api": "./py/达达兔影院.py",
+      "api": "./api/达达兔影院.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -920,7 +900,7 @@
       "key": "麒麟影院",
       "name": "麒麟影院|PY",
       "type": 3,
-      "api": "./py/麒麟影院.py",
+      "api": "./api/麒麟影院.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -929,7 +909,7 @@
       "key": "卵石影视",
       "name": "卵石影视|PY",
       "type": 3,
-      "api": "./py/卵石影视.py",
+      "api": "./api/卵石影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -939,7 +919,7 @@
       "key": "八戒影视",
       "name": "八戒影视|PY",
       "type": 3,
-      "api": "./py/八戒影视.py",
+      "api": "./api/八戒影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -949,7 +929,7 @@
       "key": "懂片帝",
       "name": "懂片帝|PY",
       "type": 3,
-      "api": "./py/懂片帝.py",
+      "api": "./api/懂片帝.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -959,7 +939,7 @@
       "key": "共青春",
       "name": "共青春|PY",
       "type": 3,
-      "api": "./py/共青春.py",
+      "api": "./api/共青春.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -969,7 +949,7 @@
       "key": "好剧屋",
       "name": "好剧屋|PY",
       "type": 3,
-      "api": "./py/好剧屋.py",
+      "api": "./api/好剧屋.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -979,7 +959,7 @@
       "key": "秒看TV",
       "name": "秒看TV|PY",
       "type": 3,
-      "api": "./py/秒看TV.py",
+      "api": "./api/秒看TV.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -1003,7 +983,7 @@
           "type": 3,
           "quickSearch": 1,
           "searchable": 1,
-          "api": "./py/厂长资源.py"
+          "api": "./api/厂长资源.py"
         }, 
         {
           "key": "珊瑚影视",
@@ -1011,7 +991,7 @@
           "type": 3,
           "quickSearch": 1,
           "searchable": 1,
-          "api": "./py/珊瑚影视.py"
+          "api": "./api/珊瑚影视.py"
         }, 
         {
           "key": "一起影视",
@@ -1019,7 +999,7 @@
           "type": 3,
           "quickSearch": 1,
           "searchable": 1,
-          "api": "./py/一起影视.py"
+          "api": "./api/一起影视.py"
         }, 
         {
           "key": "影巢",
@@ -1027,7 +1007,7 @@
           "type": 3,
           "quickSearch": 1,
           "searchable": 1,
-          "api": "./py/影巢.py"
+          "api": "./api/影巢.py"
         }, 
         {
           "key": "酷客影院",
@@ -1035,7 +1015,7 @@
           "type": 3,
           "quickSearch": 1,
           "searchable": 1,
-          "api": "./py/酷客影院.py"
+          "api": "./api/酷客影院.py"
         }, 
         {
           "key": "追剧达人",
@@ -1043,7 +1023,7 @@
           "type": 3,
           "quickSearch": 1,
           "searchable": 1,
-          "api": "./py/追剧达人.py"
+          "api": "./api/追剧达人.py"
         }, 
         {
           "key": "大师兄",
@@ -1051,7 +1031,7 @@
           "type": 3,
           "quickSearch": 1,
           "searchable": 1,
-          "api": "./py/大师兄.py"
+          "api": "./api/大师兄.py"
         }, 
          {
           "key": "剧迷",
@@ -1059,7 +1039,7 @@
           "type": 3,
           "quickSearch": 1,
           "searchable": 1,
-          "api": "./py/剧迷.py"
+          "api": "./api/剧迷.py"
         }, 
          {
           "key": "剧踪",
@@ -1067,7 +1047,7 @@
           "type": 3,
           "quickSearch": 1,
           "searchable": 1,
-          "api": "./py/剧踪.py"
+          "api": "./api/剧踪.py"
         }, 
          {
           "key": "看剧ai",
@@ -1075,7 +1055,7 @@
           "type": 3,
           "quickSearch": 1,
           "searchable": 1,
-          "api": "./py/看剧ai.py"
+          "api": "./api/看剧ai.py"
         }, 
          {
           "key": "开心影院",
@@ -1083,13 +1063,13 @@
           "type": 3,
           "quickSearch": 1,
           "searchable": 1,
-          "api": "./py/开心影院.py"
+          "api": "./api/开心影院.py"
         }, 
         {
           "key": "vs影院",
           "name": "vs影院|PY",
           "type": 3,
-          "api": "./py/vs影院.py",
+          "api": "./api/vs影院.py",
           "searchable": 1,
           "changeable": 1,
           "quickSearch": 1
@@ -1107,7 +1087,7 @@
       "key": "红果短剧",
       "name": "🍎红果丨短剧",
       "type": 3,
-      "api": "./py/红果.py",
+      "api": "./api/红果.py",
       "genre": "shortdrama"
     }, 
 	  {
